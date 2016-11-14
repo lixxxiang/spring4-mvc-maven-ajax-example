@@ -72,6 +72,9 @@ public class AjaxController {
 		User user1 = new User("mkyong", "pass123", "mkyong@yahoo.com", "012-1234567", "address 123");
 		User user2 = new User("yflow", "pass456", "yflow@yahoo.com", "016-7654321", "address 456");
 		User user3 = new User("laplap", "pass789", "mkyong@yahoo.com", "012-111111", "address 789");
+
+//a
+
 		users.add(user1);
 		users.add(user2);
 		users.add(user3);
