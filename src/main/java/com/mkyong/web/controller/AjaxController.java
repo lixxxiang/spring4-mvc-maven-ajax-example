@@ -43,6 +43,7 @@ public class AjaxController {
 			result.setMsg("Search criteria is empty!");
 		}
 
+
 		//AjaxResponseBody will be converted into json format and send back to client.
 		return result;
 
