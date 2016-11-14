@@ -37,6 +37,7 @@ public class AjaxController {
 				result.setMsg("No user!");
 			}
 
+
 		} else {
 			result.setCode("400");
 			result.setMsg("Search criteria is empty!");
